@@ -1,0 +1,3 @@
+export GITHUB_USERNAME="Ayushj-30"
+export GITHUB_REPOSITORY="se2001-21f3003047"
+
